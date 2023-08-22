@@ -1,0 +1,2 @@
+# Required Installations to run code
+pip install tabulate
